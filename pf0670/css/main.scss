@@ -1,4 +1,8 @@
+//DECLARAÇÃO DE VARIÁVEIS
+//Para declarar um variável utilizamos o simbolo ( $ ) iniciando o identificador.
+$text-color: #fff000;
+$back-color: #e20775;
 body {
-    background-color: #e20775;
-    color: #fff;
+    background-color: $back-color;
+    color: $text-color;
 }
