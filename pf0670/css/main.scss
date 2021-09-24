@@ -5,4 +5,16 @@ $back-color: #e20775;
 body {
     background-color: $back-color;
     color: $text-color;
+
+    .container {
+        border: 2px solid #333;
+        max-width: 100px;
+        font-size: 0.9em;
+        color: #fff;
+
+        p {
+            background-color: #0000ff;
+            font-family: "Trebuchet MS", sans-serif;
+        }
+    }
 }

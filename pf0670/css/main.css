@@ -2,4 +2,16 @@ body {
   background-color: #e20775;
   color: #fff000;
 }
+
+body .container {
+  border: 2px solid #333;
+  max-width: 100px;
+  font-size: 0.9em;
+  color: #fff;
+}
+
+body .container p {
+  background-color: #0000ff;
+  font-family: "Trebuchet MS", sans-serif;
+}
 /*# sourceMappingURL=main.css.map */
